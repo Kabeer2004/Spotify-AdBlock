@@ -9,7 +9,9 @@ thanks @Aarya-Gosar for making my idea come to life 😁
 
 Usage:
 
-Open the python script in a text editor of your choice and set path and SPOTIFY_ACCESS_TOKEN values as follows.
+FIRST, INSTALL PYTHON. you can follow this tutorial: https://www.youtube.com/watch?v=UvcQlPZ8ecA (not my tutorial)
+
+Open the python script (detect-spotify.py) in a text editor of your choice and set path and SPOTIFY_ACCESS_TOKEN values as follows.
 
 for path, put the path where Spotify.exe is located on your computer. use double backslashes (\\) because that is how python works
 example -
@@ -21,7 +23,7 @@ copy the request token and paste it as it is within the single quotes ''
 example-
 SPOTIFY_ACCESS_TOKEN = 'BQBeofHqu1HgfZOnEWef8Fh4rMfdfvgr0bbgjwwYV_4r8qJiH2UUlrGBsPon9fVEDjopIgWmHnPrLA1Dl5RCb62p2jz0p_fiw6GL5psmChFz1mQA_bK3rQmHOEbIduz1IXpZJ7sO7ETY7_TXRSx_aaBR6dUbXETFmKeE'
 
-Save the file and run it with python!
+Save the file and run it with python! (you can double click on it OR navigate to it in the windows CMD and run it with the command: python detect-spotify.py
 
 
 Known bugs-
