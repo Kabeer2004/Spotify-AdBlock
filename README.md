@@ -9,7 +9,7 @@ thanks @Aarya-Gosar for making my idea come to life 😁
 
 Usage:
 
-FIRST, INSTALL PYTHON. you can follow this tutorial: https://www.youtube.com/watch?v=UvcQlPZ8ecA (not my tutorial)
+FIRST, INSTALL PYTHON. you can follow this tutorial: https://www.youtube.com/watch?v=UvcQlPZ8ecA (not my tutorial) the tutorial is from 2020, but you can install the latest 2021 version using the same steps.
 
 Open the python script (detect-spotify.py) in a text editor of your choice and set path and SPOTIFY_ACCESS_TOKEN values as follows.
 
