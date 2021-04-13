@@ -5,8 +5,8 @@ import time
 
 # Things you have to change
 
-path = 'C:\\Users\\Kabeer Ahmed\\AppData\\Roaming\\Spotify\\Spotify.exe'  # Locate the path of spotify.exe on your computer, It should look like : 'C:/Users/<youname>/AppData/Roaming/Spotify/Spotify.exe'
-SPOTIFY_ACCESS_TOKEN = 'BQC3w9Y8njAbZuJCwu1vRv4ED2QZJH0aPFWVfIocQonj8f0o2v_bBLA5VJsHdjjKfR9nrbeNLQCxLQDXBjFIcp0-CkrjkUqi9Z20zj1aEqsSN6k8eFI0vHhCrRctlnKwVb0iR0XU8NkHKJqL59K4C5Li09sYXYYa0Y2X'  # I have a link on github, click that > Get token > check the topmost box > Copy paste that token here
+path = ''  # Locate the path of spotify.exe on your computer, It should look like : 'C:/Users/<youname>/AppData/Roaming/Spotify/Spotify.exe'
+SPOTIFY_ACCESS_TOKEN = ''  # I have a link on github, click that > Get token > check the topmost box > Copy paste that token here
 
 # ----------------------------------------
 
