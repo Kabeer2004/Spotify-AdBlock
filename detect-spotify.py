@@ -63,5 +63,9 @@ if __name__ == '__main__':
 		
 		try:
 			main()
+		
+		except KeyboardInterrupt:
+			quit()
+		
 		except:
 			print('oops there was an error, refer to README or start a song if there isn\'t one playing.')
